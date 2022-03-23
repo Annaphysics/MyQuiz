@@ -9,7 +9,7 @@ In the present work an android application was developed which performs a multip
 . The application requests and records the data of the examinee in a database. At the same time, a check is made in order to exclude the case of the same contestant being examined a second time.
 
 
-. The test consists of a certain number of questions which are selected from a database, which is created through the application, at random. There is also the possibility for the developer to select the number of questions that will be displayed.
+. The test consists of a certain number of questions which are selected from a database, which is created through the application, at random.There is also the possibility for the developer to select the number of questions that will be displayed.
 
 
 . The number of possible answers varies from question to question. Each question, however, will have only one correct answer.
