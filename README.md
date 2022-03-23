@@ -1,5 +1,10 @@
 # MyQuiz
+
+
 Multiple choice quiz
+
+
+
 In the present work an android application was developed which performs a multiple choice test. The following specifications were taken into account in the development of the application:
 
 . The application requests and records the data of the examinee in a database. At the same time, a check is made in order to exclude the case of the same contestant being examined a second time.
